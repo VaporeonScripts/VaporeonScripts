@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VaporeonScripts
+- 👀 I’m interested in Minecraft
+- 🌱 I’m currently learning Batch Code
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me yokonara_is_returned (discord)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: i made a 300 line long batch code!
