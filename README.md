@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Batch Code
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me Narukami_XFX (discord)
-- 😄 Pronouns: he/him/his or she/her/hers? u will never know
+- 😄 Pronouns: Fem/Boy
 - ⚡ Fun fact: i made a 300 line long batch code!
