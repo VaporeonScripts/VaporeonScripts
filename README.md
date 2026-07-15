@@ -28,6 +28,8 @@
 ### 🚀 Featured project
 **[NeoTech Reborn](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)** — Minecraft NeoForge 1.21.1 modpack
 
+Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTech-Reborn)
+
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-NeoTech%20Reborn-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)
