@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm kurotsuki 👋</h1>
-
 <p align="center">
   Modpack Developer
 </p>
@@ -7,17 +6,16 @@
 ---
 
 ### 🧩 About me
-
 - 🎮 Creator and developer of **NeoTech Reborn**, a Minecraft modpack built on NeoForge 1.21.1 with 600+ mods and a realistic-fantasy aesthetic
 - 📦 The modpack has passed **20,000+ downloads** on CurseForge
 - 🛠️ I work on mod management, crash diagnosis, config tuning, and community support/localization
+- 🌍 Part of the Italian translation team for **[The Coffin of Andy and Leyley](https://steamcommunity.com/app/2378900/discussions/2/594022969417677218/)**
 - 🐧 Dual-boot setup: **CachyOS** (Arch-based, KDE Plasma on Wayland) and **Windows 11 25H2**
 - 🎵 Into Italian rap (Kid Yugi, Nayt, Lazza, Marracash, and more) and badminton
 
 ---
 
 ### 🔧 What I do
-
 ```text
 🧱 Modpack Development   → recipe design, mod compatibility, config tuning, crash diagnosis
 🌍 Localization          → translations and multilingual community support
@@ -27,7 +25,6 @@
 ---
 
 ### 🚀 Featured project
-
 **[NeoTech Reborn](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)** — Minecraft NeoForge 1.21.1 modpack
 
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
@@ -38,7 +35,6 @@
 ---
 
 ### 🛠️ Tools
-
 ![Minecraft](https://img.shields.io/badge/-Minecraft%20Modding-62B47A?style=flat-square&logo=minecraft&logoColor=white)
 ![CurseForge](https://img.shields.io/badge/-CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
