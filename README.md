@@ -12,6 +12,7 @@
 - 🌍 Part of the Italian translation team for **[The Coffin of Andy and Leyley](https://steamcommunity.com/app/2378900/discussions/2/594022969417677218/)**
 - 🐧 Dual-boot setup: **CachyOS** (Arch-based, KDE Plasma on Wayland) and **Windows 11 25H2**
 - 🎵 Into Italian rap (Kid Yugi, Nayt, Lazza, Marracash, and more) and badminton
+- 🗣️ Italian (native), English
 
 ---
 
@@ -39,6 +40,15 @@
 ![CurseForge](https://img.shields.io/badge/-CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+---
+
+### 📬 Get in touch
+- 🐛 Bug reports → [GitHub Issues](../../issues)
+- 💬 Everything else (help, suggestions, chat) → [Discord](https://discord.gg/8Hz9qTjJaB)
+- 📸 Instagram → [@fede_disciglio_y3p](https://www.instagram.com/fede_disciglio_y3p/)
 
 ---
 
