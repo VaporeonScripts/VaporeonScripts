@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm kurotsuki 👋</h1>
 <p align="center">
-  Modpack Developer
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F16436&center=true&vCenter=true&width=500&lines=Modpack+Developer;Creator+of+NeoTech+Reborn;600%2B+Mods%2C+1+Pack;Always+chasing+the+next+bug" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-NeoTech%20Reborn-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8Hz9qTjJaB)
-![Downloads](https://cf.way2muchnoise.eu/full_1118358_downloads.svg)
+[![Discord](https://img.shields.io/discord/1291470916395597944?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/8Hz9qTjJaB)
+<img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg" height="28" alt="Downloads">
 
 ---
 
