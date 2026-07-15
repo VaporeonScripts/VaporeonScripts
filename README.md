@@ -32,7 +32,7 @@
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-NeoTech%20Reborn-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8Hz9qTjJaB)
-![Downloads](https://cf.way2muchnoise.eu/1118358_downloads.svg)
+![Downloads](https://cf.way2muchnoise.eu/full_1118358_downloads.svg)
 
 ---
 
