@@ -31,7 +31,6 @@
 Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTech-Reborn)
 
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
-
 <a href="https://www.curseforge.com/minecraft/modpacks/neotech-reborn">
   <img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg?badge_style=for_the_badge" height="28" alt="Downloads">
 </a>
