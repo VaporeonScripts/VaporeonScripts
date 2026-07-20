@@ -32,9 +32,12 @@ Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTec
 
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-NeoTech%20Reborn-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)
-[![Discord](https://img.shields.io/discord/1291470916395597944?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/8Hz9qTjJaB)
-<img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg?badge_style=for_the_badge" height="28" alt="Downloads">
+<a href="https://www.curseforge.com/minecraft/modpacks/neotech-reborn">
+  <img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg?badge_style=for_the_badge" height="28" alt="Downloads">
+</a>
+<a href="https://discord.gg/8Hz9qTjJaB">
+  <img src="https://img.shields.io/discord/1291470916395597944?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2" height="28" alt="Discord">
+</a>
 
 ---
 
