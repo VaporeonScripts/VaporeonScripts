@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm kurotsuki 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F16436&center=true&vCenter=true&width=500&lines=Modpack+Developer;Creator+of+NeoTech+Reborn;600%2B+Mods%2C+1+Pack;NeoForge+1.21.1" alt="Typing SVG" />
 </p>
@@ -25,14 +26,20 @@
 
 ---
 
-### 🚀 Featured project
-**[NeoTech Reborn](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)** — Minecraft NeoForge 1.21.1 modpack
+### 🚀 Featured projects
 
+**[NeoTech Reborn](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)** — Minecraft NeoForge 1.21.1 modpack
 Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTech-Reborn)
 
 > A NeoForge modpack with 600+ carefully picked mods, built for any type of player — from beginners to veterans. Looks good, runs well, and offers deep tech automation, magic, exploration, and combat, backed by custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
 
 <a href="https://www.curseforge.com/minecraft/modpacks/neotech-reborn"><img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg?badge_style=for_the_badge" height="28" alt="Downloads"></a> <a href="https://discord.gg/8Hz9qTjJaB"><img src="https://img.shields.io/discord/1291470916395597944?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2" height="28" alt="Discord"></a>
+
+**[Pack Commit](https://github.com/VaporeonScripts/pack-commit)** — Fish shell tool for modpack devs
+
+> A small fish shell script that syncs and commits your modpack's `config`, `kubejs`, or any other folders straight to GitHub — with support for splitting changes into multiple commits with their own messages. Built out of maintaining NeoTech Reborn's own repo.
+
+<a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/license/VaporeonScripts/pack-commit?style=for-the-badge&color=blue" height="28" alt="License"></a> <a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/stars/VaporeonScripts/pack-commit?style=for-the-badge&logo=github" height="28" alt="Stars"></a>
 
 ---
 
@@ -43,7 +50,6 @@ Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTec
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
-
 ---
 
 ### 📬 Get in touch
