@@ -37,7 +37,7 @@ Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTec
 
 **[Pack Commit](https://github.com/VaporeonScripts/pack-commit)** — Fish shell tool for modpack devs
 
-> A small fish shell script that syncs and commits your modpack's `config`, `kubejs`, or any other folders straight to GitHub — with support for splitting changes into multiple commits with their own messages. Built out of maintaining NeoTech Reborn's own repo.
+> A small fish shell script that syncs and commits your modpack's `config`, `kubejs`, or any other folders straight to GitHub — split changes across multiple commits, undo or amend the last one, and get pending-push detection with safety checks like auto-pull-rebase built in. Built out of maintaining NeoTech Reborn's own repo.
 
 <a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/license/VaporeonScripts/pack-commit?style=for-the-badge&color=blue" height="28" alt="License"></a> <a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/stars/VaporeonScripts/pack-commit?style=for-the-badge&logo=github" height="28" alt="Stars"></a>
 
