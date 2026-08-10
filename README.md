@@ -8,11 +8,10 @@
 
 ### 🧩 About me
 - 🎮 Creator and developer of **NeoTech Reborn**, a Minecraft modpack built on NeoForge 1.21.1 with 600+ mods and a realistic-fantasy aesthetic
-- 📦 The modpack has passed **20,000+ downloads** on CurseForge
 - 🛠️ I work on mod management, crash diagnosis, config tuning, and community support/localization
 - 🌍 Part of the Italian translation team for **[The Coffin of Andy and Leyley](https://steamcommunity.com/app/2378900/discussions/2/594022969417677218/)**
 - 🐧 Dual-boot setup: **CachyOS** (Arch-based, KDE Plasma on Wayland) and **Windows 11 25H2**
-- 🎵 Into Italian rap (Kid Yugi, Nayt, Lazza, Marracash, and more) and badminton
+- 🎵 Into Italian rap (Kid Yugi, Nayt, Lazza, Gemitaiz, and more) and badminton
 - 🗣️ Italian (native), English
 
 ---
@@ -53,5 +52,6 @@ Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTec
 ---
 
 ### 📬 Get in touch
+- 🌐 Portfolio → [vaporeonscripts.github.io](https://vaporeonscripts.github.io)
 - 💬 Everything else (help, suggestions, chat) → [Discord](https://discord.gg/8Hz9qTjJaB)
 - 📸 Instagram → [@fede_disciglio_y3p](https://www.instagram.com/fede_disciglio_y3p/)
