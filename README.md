@@ -40,6 +40,12 @@ Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTec
 
 <a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/license/VaporeonScripts/pack-commit?style=for-the-badge&color=blue" height="28" alt="License"></a> <a href="https://github.com/VaporeonScripts/pack-commit"><img src="https://img.shields.io/github/stars/VaporeonScripts/pack-commit?style=for-the-badge&logo=github" height="28" alt="Stars"></a>
 
+**[Enhanced HowToFish](https://thunderstore.io/c/how-to-fish/p/Linux_Squad/Enhanced_HowToFish/)** — QOL modpack for How To Fish
+
+> A Thunderstore modpack for **How To Fish**, bundling community mods that improve UI clarity and overall gameplay experience without changing the core game.
+
+<a href="https://thunderstore.io/c/how-to-fish/p/Linux_Squad/Enhanced_HowToFish/"><img src="https://img.shields.io/thunderstore/dt/Linux_Squad/Enhanced_HowToFish?style=for-the-badge&label=Downloads&color=00A3FF" height="28" alt="Downloads"></a> <a href="https://thunderstore.io/c/how-to-fish/p/Linux_Squad/Enhanced_HowToFish/"><img src="https://img.shields.io/thunderstore/v/Linux_Squad/Enhanced_HowToFish?style=for-the-badge&label=Version&color=00A3FF" height="28" alt="Version"></a>
+
 ---
 
 ### 🛠️ Tools
