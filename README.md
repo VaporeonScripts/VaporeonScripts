@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm kurotsuki 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F16436&center=true&vCenter=true&width=500&lines=Modpack+Developer;Creator+of+NeoTech+Reborn;600%2B+Mods%2C+1+Pack;NeoForge+1.21.1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1500&color=F16436&center=true&vCenter=true&width=500&lines=Modpack+Developer;Creator+of+NeoTech+Reborn;700%2B+Mods%2C+1+Pack;NeoForge+1.21.1" alt="Typing SVG" />
 </p>
 
 ---
