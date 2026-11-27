@@ -30,7 +30,7 @@
 **[NeoTech Reborn](https://www.curseforge.com/minecraft/modpacks/neotech-reborn)** — Minecraft NeoForge 1.21.1 modpack<br>
 Repo: [VaporeonScripts/NeoTech-Reborn](https://github.com/VaporeonScripts/NeoTech-Reborn)
 
-> A NeoForge modpack featuring 700+ carefully selected mods and 2,100+ quests, designed for every type of player, from beginners to veterans. Combines stunning visuals and smooth performance with deep tech automation, magic, exploration, and combat, alongside custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
+> A NeoForge modpack featuring 700+ carefully selected mods and 3,200+ quests, designed for every type of player, from beginners to veterans. Combines stunning visuals and smooth performance with deep tech automation, magic, exploration, and combat, alongside custom enchantments, overhauled world generation, and thousands of structures and mobs to discover.
 
 <a href="https://www.curseforge.com/minecraft/modpacks/neotech-reborn"><img src="https://cf.way2muchnoise.eu/full_1118358_downloads.svg?badge_style=for_the_badge" height="28" alt="Downloads"></a> <a href="https://discord.gg/8Hz9qTjJaB"><img src="https://img.shields.io/discord/1291470916395597944?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2" height="28" alt="Discord"></a>
 
